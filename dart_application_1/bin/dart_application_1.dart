@@ -1,3 +1,4 @@
-void main(){
-  print("Hello world!");
+void main() {
+  List ls = ["khaled"];
+  print(ls);
 }
